@@ -1,0 +1,2 @@
+echo "doggy-days.jpeg" >> .gitignore
+echo "uta-open-access.jpeg" >> .gitignore
